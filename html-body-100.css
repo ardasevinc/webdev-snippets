@@ -1,0 +1,9 @@
+/* Created by Arda Sevinç 
+ * can also use vh but they seem cause some problems in mobile */
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}

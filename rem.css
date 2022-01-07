@@ -1,0 +1,8 @@
+/* If font-size is set to 16px*/
+html {
+  font-size: 62.5%; /* then this equals 10px*/
+}
+
+body {
+  font-size: 1.6rem; /* this makes everything get back to normal again */
+}

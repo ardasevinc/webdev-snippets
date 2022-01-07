@@ -1,0 +1,3 @@
+- meyer full reset
+- normalize
+- make html and body 100% (body min 100%)
